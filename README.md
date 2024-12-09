@@ -1,6 +1,6 @@
 # Thinking Indicator Filter
 
-The Thinking Indicator Filter enhances the user experience by adding a visual "Thinking..." indicator during the API processing phase. Once processing is complete, the total elapsed thinking time is displayed in seconds.
+The Thinking Indicator Filter enhances the user experience by adding a visual "Thinking..." indicator during the API processing phase. Once processing is complete, the total elapsed thinking time is displayed in seconds. Recommended to only enable for models that have streaming disabled.
 
 ## Features
 
