@@ -17,10 +17,8 @@ The Thinking Indicator Filter enhances the user experience by adding a visual "T
 ## Example Output
 
 - During processing:
-    ```
-    Thinking...
-    ```
+![image](https://github.com/user-attachments/assets/e13774ae-9336-4184-8181-65c608cb93aa)
+
 - After the response is processed:
-    ```
-    Thought for 15 seconds
-    ```
+![image](https://github.com/user-attachments/assets/78bc2be0-a04a-4c65-951d-a6a4caf2da02)
+
